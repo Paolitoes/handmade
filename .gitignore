@@ -1,0 +1,29 @@
+# Handmade Hero Custom Build Directories
+/build/
+/bin/
+
+# MSVC Compiler & Linker Outputs
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.exp
+
+# Visual Studio / VS Code Local Configurations
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.user
+
+# Graphics & Optimization Artifacts
+*.map
+*.asm
+*.cod
+
+# Operating System Files
+Thumbs.db
+.DS_Store
+
